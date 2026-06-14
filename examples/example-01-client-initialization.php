@@ -15,8 +15,8 @@ ini_set('display_startup_errors', 1);
 
 // Authentication credentials can be found within the API section of your rapidmail account
 
-$username = 'api_username_hash';
-$password = 'api_password_hash';
+$username = '6940b77004af5bc600e6c3661019b084df902a8b';
+$password = '5f272bbc55f52cfabeb9fc39d5419376ca572297';
 
 // Create a new client
 
